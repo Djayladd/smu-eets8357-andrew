@@ -1,1 +1,8 @@
+HEAD
 This edit was made directly on main.
+git add first_file.txt
+git commit -m "edit on third_branch"
+git checkout main
+cat first_file.txt
+This edit was made on third_branch
+third_branch
